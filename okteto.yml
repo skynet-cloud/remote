@@ -1,3 +1,4 @@
+autocreate: true
 name: ssh
 image: okteto/golang:1
 command:
